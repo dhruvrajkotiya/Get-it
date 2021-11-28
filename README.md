@@ -1,5 +1,5 @@
 # get-it
-## Abstract
+### Abstract
 
 GET-IT the name only describes its features i.e. you can get the product with a great discount. 
 This project is purposefully created to enhance the local market and local shopkeepers as their 
