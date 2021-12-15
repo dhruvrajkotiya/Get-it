@@ -12,4 +12,3 @@ friendly for them and they can get the things from nearby shopkeeper easily.
 <p align="center">
   <img src="https://github.com/dhruvrajkotiya/get-it/blob/main/image/Screenshot%20(5).png" width="350" title="hover text">
 </p>
-<embed src="https://github.com/dhruvrajkotiya/get-it/blob/main/image/satya na prayog Gandhi ji.pdf" width="800px" height="2100px" />
