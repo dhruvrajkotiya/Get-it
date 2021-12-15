@@ -8,7 +8,3 @@ great offers due to which these local shops are near to the end. But this app wi
 to shopper as well as shopkeeper as shopkeeper will be having a great sales if he is going to use 
 our app and provide offers and also shoppers will like to use this web app as it will be money 
 friendly for them and they can get the things from nearby shopkeeper easily.
-
-<p align="center">
-  <img src="https://github.com/dhruvrajkotiya/get-it/blob/main/image/Screenshot%20(5).png" width="350" title="hover text">
-</p>
